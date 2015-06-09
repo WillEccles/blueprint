@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ghostyx123@gmail.com",
+    "longName": "Blueprint",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Blueprint",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4c4a184c-c94f-49df-92d3-a52e12eef6c4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
